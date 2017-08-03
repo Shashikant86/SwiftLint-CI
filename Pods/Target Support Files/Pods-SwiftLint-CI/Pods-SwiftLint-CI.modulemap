@@ -1,0 +1,6 @@
+framework module Pods_SwiftLint_CI {
+  umbrella header "Pods-SwiftLint-CI-umbrella.h"
+
+  export *
+  module * { export * }
+}
