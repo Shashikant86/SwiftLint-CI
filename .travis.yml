@@ -19,6 +19,6 @@ jobs:
       script:
         - fastlane scan -s SwiftLint-CITests
 
-    - stage: XCUITest
+    - stage: XCTest
       script:
         - fastlane scan -s SwiftLint-CIUITests
